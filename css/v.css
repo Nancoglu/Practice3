@@ -1,0 +1,34 @@
+h1{
+    color: burlywood;
+    font-size: 40px;
+    font-weight: 200;
+    font-family:'Pacifico',cursivef
+}
+body{
+    background-color: peachpuff;
+    list-style-position: inside;
+}
+td{
+    font-size: 20px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+h3{
+    font-size: 24px;
+    color: yellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h2{
+    font-size: 32px;
+    color: salmon;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+li{
+    font-size: 18px;
+    font-family: 'Helvetica',cursive
+}
+ol{
+    list-style-position: inside; padding-left: 0;
+    padding-left: 20px;
+}
